@@ -1,6 +1,6 @@
 # IMDA
 
-This code repo contains implementation for IMDA algorithm presented in the AISTATS 2023 paper:
+This code repo contains implementation for the IMDA algorithm presented in the AISTATS 2023 paper:
 
 ***Algorithm-Dependent Bounds for Representation Learning of Multi-Source Domain Adaptation*** by Chen and Marchand.
 
