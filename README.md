@@ -16,7 +16,7 @@ pip install -r requirements.txt
 The code was written to run in Python 3.6 or in a more recent version.
 
 ## Supervised MDA 
-![Illustration](./ model-supervised.jpg)
+![Illustration](./model-supervised.jpg)
 
 
 ```
